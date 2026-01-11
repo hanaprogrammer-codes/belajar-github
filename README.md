@@ -1,2 +1,3 @@
-# belajar-github
-Repo pertama Hana
+Halo 👋
+Ini repository GitHub pertamaku.
+Aku sedang belajar ngoding.
